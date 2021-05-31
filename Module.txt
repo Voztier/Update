@@ -1,5 +1,0 @@
-updated_latest_fixluauv2
-https://raw.githubusercontent.com/Voztier/Update/Voztier.dll
-false
-vr
-dll
