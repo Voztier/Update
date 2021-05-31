@@ -1,5 +1,5 @@
 updated_latest_fixluauv2
-https://raw.githubusercontent.com/Voztier/Update/Voztier.dll
+https://raw.githubusercontent.com/Voztier/Update/main/Voztier.dll
 false
 vr
 dll
