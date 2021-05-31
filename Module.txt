@@ -1,5 +1,5 @@
 updated_latest_fixluauv2
-https://raw.githubusercontent.com/Voztier/Update/EasyExploitsDLL.dll
+https://raw.githubusercontent.com/Voztier/Update/main/EasyExploitsDLL.dll
 false
 vr
 dll
